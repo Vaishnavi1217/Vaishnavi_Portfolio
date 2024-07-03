@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Portfolio",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
-  },
-  {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I have built this portfolio using HTML5, CSS3 and Javascript.This portfolio contains a language translator, Cash register manager app, profit and loss calculator which are built using HTML5, CSS3 and Javascript.An emoji interpreter app, a song recommendation app using React JS.",
+    url: "https://vaishnavi-gharapurkar-portfolio.netlify.app/",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://vaishnavi1217.github.io/Resume/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Elegance Edge Marketing Agency",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is the introductory website for elegance edge marketing agency built using HTML5, CSS3 and Javascript.",
+    url: "https://eleganceedgeagency.netlify.app",
   },
 ];
 
